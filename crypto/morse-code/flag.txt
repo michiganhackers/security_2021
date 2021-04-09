@@ -1,0 +1,2 @@
+The flag should be MHCTF{morse_code_messages_mesmerize_me}
+
