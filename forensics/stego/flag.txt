@@ -1,0 +1,1 @@
+MHCTF{snazzy_stego}
